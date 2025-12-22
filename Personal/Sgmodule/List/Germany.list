@@ -43,6 +43,7 @@ USER-AGENT,*number26
 PROCESS-NAME,number26
 DOMAIN-KEYWORD,tech26
 DOMAIN-KEYWORD,number26
+DOMAIN-SUFFIX,n26.com
 
 # Vodafone DE
 DOMAIN,beta.vodafone.de
