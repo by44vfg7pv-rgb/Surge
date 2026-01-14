@@ -45,6 +45,10 @@ DOMAIN-SUFFIX,jjdsn.vip
 DOMAIN-SUFFIX,noxiaohao.com
 DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,bwb.global
+DOMAIN-SUFFIX,bwb.online
+
+# Alchemy
+DOMAIN-SUFFIX,alchemy.com
 
 # Kucoin
 DOMAIN-SUFFIX,xcoinsystem.com
