@@ -374,3 +374,7 @@ DOMAIN-KEYWORD,za
 DOMAIN,ibanking.cncbinternational.com
 DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-KEYWORD,cncbinternational
+
+# 建设银行(亚洲) (CCB Asia)
+DOMAIN-SUFFIX,asia.ccb.com
+DOMAIN-SUFFIX,online.asia.ccb.com
