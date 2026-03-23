@@ -312,3 +312,8 @@ DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,huobi
 DOMAIN-KEYWORD,metamask
 DOMAIN-KEYWORD,okx
+
+# ether.fi
+DOMAIN-SUFFIX,ether.fi
+DOMAIN-SUFFIX,cardinaltrusted.com
+DOMAIN-SUFFIX,cardinalcommerce.com
