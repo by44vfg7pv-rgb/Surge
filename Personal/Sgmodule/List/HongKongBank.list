@@ -378,3 +378,9 @@ DOMAIN-KEYWORD,cncbinternational
 # 建设银行(亚洲) (CCB Asia)
 DOMAIN-SUFFIX,asia.ccb.com
 DOMAIN-SUFFIX,online.asia.ccb.com
+
+# ---------- AlipayHK / Ant Bank HK ----------
+DOMAIN-SUFFIX,alipay.hk
+DOMAIN-SUFFIX,antbank.hk
+DOMAIN-SUFFIX,marmot-cloud.com
+DOMAIN,myh2hk.alipay.com
